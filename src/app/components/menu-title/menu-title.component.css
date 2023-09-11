@@ -1,0 +1,15 @@
+.menu-title-container {
+    display: flex;
+    flex-direction: column;
+    border-top: 1px solid #303030;
+    border-bottom: 1px solid #303030;
+}
+
+.menu-title-container > h1 {
+    display: flex;
+    justify-content: center;
+    margin: 10px 0 10px 0;
+    font-size: 160px;
+    font-weight: 900;
+    line-height: 140px;
+}

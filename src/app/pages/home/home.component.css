@@ -1,0 +1,26 @@
+.container {
+    margin: 30px 50px
+}
+
+.container .container-header {
+    display: flex;
+    flex: row;
+    justify-content: center;
+}
+
+.container .articles-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 50px;
+}
+
+.container .articles-container .articles-main {
+    margin-right: 30px;
+}
+
+.container .articles-container .articles-others {
+    margin-left: 20px;
+}
+
+
