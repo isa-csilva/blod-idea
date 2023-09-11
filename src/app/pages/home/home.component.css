@@ -1,12 +1,7 @@
 .container {
-    margin: 30px 50px
+    margin: 0 50px
 }
 
-.container .container-header {
-    display: flex;
-    flex: row;
-    justify-content: center;
-}
 
 .container .articles-container {
     display: flex;
